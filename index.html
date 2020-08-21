@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Pointillism Demo</title>
+</head>
+<body onload="function loadScreen() {
+    const canvas = document.getElementById('canvas');
+    const pointillism = new Pointillism(canvas)
+
+    // populate the pixels
+    for(let i = 0; i < 300; i++) {
+      pointillism.loadPixel(pointillism.getRandomPixel(),'red')
+    }
+
+    // draw the display
+    pointillism.draw()
+
+    const height = document.getElementById('height');
+    height.innerText = pointillism.height
+    const width = document.getElementById('width');
+    width.innerText = pointillism.width
+
+}
+loadScreen();">
+  <canvas id="canvas" width="512" height="448"></canvas><br>
+  <span id="width"></span>x<span id="height"></span><br>
+</body>
+<script src="src/index.js"></script>
+</html>
