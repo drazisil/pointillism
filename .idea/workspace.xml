@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25d3fc80-0caf-4621-8792-ce3cd6e35b2e" name="Default Changelist" comment="" />
+    <list default="true" id="25d3fc80-0caf-4621-8792-ce3cd6e35b2e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,16 +17,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
   </component>
   <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="035cec40-2a5e-450b-bb38-e74f6dce8a8e" />
+    <option name="defaultAccountId" value="428bc9e4-0985-45f6-a83b-2035e3540431" />
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="894iq406" />
   </component>
   <component name="ProjectId" id="1gQCT9OZwKFDPY9wevVtutOYjcB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -35,8 +42,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="consentGiven" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="zielu.gittoolbox.app.config" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/pointillism/index.html" useBuiltInWebServerPort="true">
@@ -58,6 +66,7 @@
       <updated>1598037438462</updated>
       <workItem from="1598037440696" duration="31000" />
       <workItem from="1598037481664" duration="6101000" />
+      <workItem from="1598362398390" duration="1350000" />
     </task>
     <servers />
   </component>
@@ -65,6 +74,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="768" y="296" key="FileChooserDialogImpl" timestamp="1598363656628">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="768" y="296" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1598363656628" />
     <state width="1383" height="238" key="GridCell.Tab.0.bottom" timestamp="1598043486857">
       <screen x="0" y="27" width="1600" height="873" />
     </state>
@@ -113,6 +126,14 @@
       <screen x="0" y="27" width="1600" height="873" />
     </state>
     <state width="1383" height="238" key="GridCell.Tab.2.right/0.27.1600.873/1600.0.1440.900@0.27.1600.873" timestamp="1598043486858" />
+    <state x="580" y="290" key="IDE.errors.dialog" timestamp="1598362433597">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="580" y="290" key="IDE.errors.dialog/65.24.1855.1056@65.24.1855.1056" timestamp="1598362433597" />
+    <state x="486" y="188" key="SettingsEditor" timestamp="1598363772769">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="486" y="188" key="SettingsEditor/65.24.1855.1056@65.24.1855.1056" timestamp="1598363772769" />
     <state x="542" y="318" width="536" height="315" key="cloudConfig.PluginsDialog" timestamp="1598037463244">
       <screen x="0" y="27" width="1600" height="873" />
     </state>
