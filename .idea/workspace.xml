@@ -20,11 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25d3fc80-0caf-4621-8792-ce3cd6e35b2e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canvest/helloworld.canvest.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/npm-shrinkwrap.json" beforeDir="false" afterPath="$PROJECT_DIR$/npm-shrinkwrap.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +101,7 @@
       <workItem from="1598037481664" duration="6101000" />
       <workItem from="1598362398390" duration="2812000" />
       <workItem from="1598365250262" duration="159000" />
-      <workItem from="1598365428329" duration="834000" />
+      <workItem from="1598365428329" duration="2362000" />
     </task>
     <task id="LOCAL-00001" summary="add webpack">
       <created>1598363919797</created>
@@ -111,7 +110,21 @@
       <option name="project" value="LOCAL" />
       <updated>1598363919797</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="export the class">
+      <created>1598366695029</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598366695029</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add webpack">
+      <created>1598366824699</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598366824699</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,8 +143,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="export the class" />
     <MESSAGE value="add webpack" />
     <option name="LAST_COMMIT_MESSAGE" value="add webpack" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="536" y="33" key="CommitChangelistDialog2" timestamp="1598363806817">
@@ -142,26 +157,26 @@
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
     <state x="768" y="296" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1598363656628" />
-    <state width="1354" height="263" key="GridCell.Tab.0.bottom" timestamp="1598365410419">
+    <state width="1354" height="263" key="GridCell.Tab.0.bottom" timestamp="1598367760949">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
     <state width="1383" height="238" key="GridCell.Tab.0.bottom/0.27.1600.873/1600.0.1440.900@0.27.1600.873" timestamp="1598043486857" />
-    <state width="1354" height="263" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1598365410419" />
-    <state width="1354" height="263" key="GridCell.Tab.0.center" timestamp="1598365410419">
+    <state width="1354" height="263" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1598367760949" />
+    <state width="1354" height="263" key="GridCell.Tab.0.center" timestamp="1598367760949">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
     <state width="1383" height="238" key="GridCell.Tab.0.center/0.27.1600.873/1600.0.1440.900@0.27.1600.873" timestamp="1598043486857" />
-    <state width="1354" height="263" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1598365410419" />
-    <state width="1354" height="263" key="GridCell.Tab.0.left" timestamp="1598365410419">
+    <state width="1354" height="263" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1598367760949" />
+    <state width="1354" height="263" key="GridCell.Tab.0.left" timestamp="1598367760949">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
     <state width="1383" height="238" key="GridCell.Tab.0.left/0.27.1600.873/1600.0.1440.900@0.27.1600.873" timestamp="1598043486857" />
-    <state width="1354" height="263" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1598365410419" />
-    <state width="1354" height="263" key="GridCell.Tab.0.right" timestamp="1598365410419">
+    <state width="1354" height="263" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1598367760949" />
+    <state width="1354" height="263" key="GridCell.Tab.0.right" timestamp="1598367760949">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
     <state width="1383" height="238" key="GridCell.Tab.0.right/0.27.1600.873/1600.0.1440.900@0.27.1600.873" timestamp="1598043486857" />
-    <state width="1354" height="263" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1598365410419" />
+    <state width="1354" height="263" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1598367760949" />
     <state width="1383" height="238" key="GridCell.Tab.1.bottom" timestamp="1598043486858">
       <screen x="0" y="27" width="1600" height="873" />
     </state>
