@@ -19,12 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25d3fc80-0caf-4621-8792-ce3cd6e35b2e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/canvest/helloworld.canvest.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/npm-shrinkwrap.json" beforeDir="false" afterPath="$PROJECT_DIR$/npm-shrinkwrap.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="25d3fc80-0caf-4621-8792-ce3cd6e35b2e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,9 +55,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
     <property name="consentGiven" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -101,7 +98,7 @@
       <workItem from="1598037481664" duration="6101000" />
       <workItem from="1598362398390" duration="2812000" />
       <workItem from="1598365250262" duration="159000" />
-      <workItem from="1598365428329" duration="2362000" />
+      <workItem from="1598365428329" duration="3300000" />
     </task>
     <task id="LOCAL-00001" summary="add webpack">
       <created>1598363919797</created>
@@ -124,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598366824699</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add canvest">
+      <created>1598368227268</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598368227268</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,7 +149,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="export the class" />
     <MESSAGE value="add webpack" />
-    <option name="LAST_COMMIT_MESSAGE" value="add webpack" />
+    <MESSAGE value="add canvest" />
+    <option name="LAST_COMMIT_MESSAGE" value="add canvest" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -157,26 +162,26 @@
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
     <state x="768" y="296" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1598363656628" />
-    <state width="1354" height="263" key="GridCell.Tab.0.bottom" timestamp="1598367760949">
+    <state width="1354" height="263" key="GridCell.Tab.0.bottom" timestamp="1598367789436">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
     <state width="1383" height="238" key="GridCell.Tab.0.bottom/0.27.1600.873/1600.0.1440.900@0.27.1600.873" timestamp="1598043486857" />
-    <state width="1354" height="263" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1598367760949" />
-    <state width="1354" height="263" key="GridCell.Tab.0.center" timestamp="1598367760949">
+    <state width="1354" height="263" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1598367789436" />
+    <state width="1354" height="263" key="GridCell.Tab.0.center" timestamp="1598367789436">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
     <state width="1383" height="238" key="GridCell.Tab.0.center/0.27.1600.873/1600.0.1440.900@0.27.1600.873" timestamp="1598043486857" />
-    <state width="1354" height="263" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1598367760949" />
-    <state width="1354" height="263" key="GridCell.Tab.0.left" timestamp="1598367760949">
+    <state width="1354" height="263" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1598367789436" />
+    <state width="1354" height="263" key="GridCell.Tab.0.left" timestamp="1598367789435">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
     <state width="1383" height="238" key="GridCell.Tab.0.left/0.27.1600.873/1600.0.1440.900@0.27.1600.873" timestamp="1598043486857" />
-    <state width="1354" height="263" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1598367760949" />
-    <state width="1354" height="263" key="GridCell.Tab.0.right" timestamp="1598367760949">
+    <state width="1354" height="263" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1598367789435" />
+    <state width="1354" height="263" key="GridCell.Tab.0.right" timestamp="1598367789436">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
     <state width="1383" height="238" key="GridCell.Tab.0.right/0.27.1600.873/1600.0.1440.900@0.27.1600.873" timestamp="1598043486857" />
-    <state width="1354" height="263" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1598367760949" />
+    <state width="1354" height="263" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1598367789436" />
     <state width="1383" height="238" key="GridCell.Tab.1.bottom" timestamp="1598043486858">
       <screen x="0" y="27" width="1600" height="873" />
     </state>
@@ -217,6 +222,10 @@
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
     <state x="486" y="188" key="SettingsEditor/65.24.1855.1056@65.24.1855.1056" timestamp="1598363772769" />
+    <state x="684" y="266" key="Vcs.Push.Dialog.v2" timestamp="1598368966124">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="684" y="266" key="Vcs.Push.Dialog.v2/65.24.1855.1056@65.24.1855.1056" timestamp="1598368966124" />
     <state x="542" y="318" width="536" height="315" key="cloudConfig.PluginsDialog" timestamp="1598037463244">
       <screen x="0" y="27" width="1600" height="873" />
     </state>
