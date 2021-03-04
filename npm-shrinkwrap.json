@@ -1218,16 +1218,16 @@
       }
     },
     "@canvest/canvest-cli": {
-      "version": "1.2.3",
-      "resolved": "https://registry.npmjs.org/@canvest/canvest-cli/-/canvest-cli-1.2.3.tgz",
-      "integrity": "sha512-/uMvoHl/njrgkYIk8YfFFFXsbEC8iGE34EHquy2Pd/hOEOv6sQWjyJ75rAdskHJd8/Eodl6t2/DD6UP4hcutvA==",
+      "version": "1.2.4",
+      "resolved": "https://registry.npmjs.org/@canvest/canvest-cli/-/canvest-cli-1.2.4.tgz",
+      "integrity": "sha512-tATsFskM5C5ecNFMH7GnUe8uV4kYGJkqkUnJDalqM3ttPuPOvP3LFCeSQbXgOPiTXWwaK5CGWvsnMttokOluDg==",
       "dev": true,
       "requires": {
         "@babel/core": "^7.8.7",
         "@babel/polyfill": "^7.8.7",
         "@babel/preset-env": "^7.8.7",
         "@canvest/canvest-core": "1.1.0",
-        "@canvest/canvest-dev-server": "1.2.3",
+        "@canvest/canvest-dev-server": "1.2.4",
         "babel-loader": "^8.0.6",
         "chalk": "^4.0.0",
         "concurrently": "^5.2.0",
@@ -1604,9 +1604,9 @@
       }
     },
     "@canvest/canvest-dev-server": {
-      "version": "1.2.3",
-      "resolved": "https://registry.npmjs.org/@canvest/canvest-dev-server/-/canvest-dev-server-1.2.3.tgz",
-      "integrity": "sha512-z7w0U5/4AVVUKLwUD9MrUPAgJnj11/RXd+n9s6FanWhLnuLQn4OKkgcudEPw3Vrg/a1olLAo4iWDE4rv5oZlRg==",
+      "version": "1.2.4",
+      "resolved": "https://registry.npmjs.org/@canvest/canvest-dev-server/-/canvest-dev-server-1.2.4.tgz",
+      "integrity": "sha512-Vtwx3ey9C5tSQ65VL4utMM810niBMwOVTQwJlYJYbmTXwNoITN79FH3Da9FiP7Xo5dFZfra2/yMi1pG7M3w1WQ==",
       "dev": true,
       "requires": {
         "bufferutil": "^4.0.1",
